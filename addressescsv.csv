@@ -2232,7 +2232,7 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 158.101.169.13,2053,443,true,FRA,Europe,Frankfurt,229,0.00
 132.226.208.137,443,443,true,FRA,Europe,Frankfurt,230,0.00
 130.162.250.149,443,0,true,FRA,Europe,Frankfurt,233,0.00
-89.168.117.232,443,443,true,FRA,Europe,Frankfurt,237,0.00
+89.168.117.232,443,443,true,FRA,Europe,Frankfurt,237,0.00    
 150.230.124.215,443,0,true,FRA,Europe,Frankfurt,245,0.00
 141.148.240.244,443,443,true,FRA,Europe,Frankfurt,266,0.00
 192.18.145.19,2096,443,true,YYZ,North America,Toronto,324,0.00
@@ -2243,3 +2243,28 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 192.18.149.159,443,443,true,YYZ,North America,Toronto,389,0.00
 192.18.149.159,8080,443,true,YYZ,North America,Toronto,403,0.00
 150.230.44.131,8443,0,true,SJC,North America,San Jose,449,0.00
+192.9.137.193,8443,8443,true,SJC,North America,San Jose,191,4.383
+141.148.229.106,443,443,true,AMS,Europe	Amsterdam,307,3.293
+64.181.240.173,443,443,true,SJC,North America,San Jose,172,2.791
+89.168.43.31,2053,2053,true,CDG,Europe,Paris,276,2.643
+152.70.123.225,8443,8443,true,SJC,North America,San Jose,184,2.545
+64.110.104.30,443,443,true,KIX,Asia Pacific,Osaka,219,2.530
+146.235.59.153,2053,2053,true,GRU,South America,,São Paulo,369,2.463
+158.179.207.182,8443,8443,true,ARN,Europe,Stockholm,297,2.234
+129.151.148.35,443,443,true,AMS,Europe,Amsterdam,259,2.172
+141.145.205.115,8443,8443,true,CDG,Europe,Paris,253,2.091
+40.233.70.7,8443,8443,true,YYZ,North America,Toronto,231,2.028
+3.112.21.102,443,443,true,NRT,Asia Pacific,Tokyo,81,13.167
+13.229.159.215,443,443,true,SIN,Asia Pacific,Singapore,124,9.159
+35.167.93.200,443,443,true,PDX,North America,Portland,200,7.112
+13.40.128.14,8443,8443,true,LHR,Europe,London,197,6.772
+3.98.73.243,443,443,true,YUL,North America,Montréal,252,6.142
+50.112.166.63,443,443,true,PDX,North America,Portland,227,6.108
+204.110.223.167,80,80,true,CMH,North America,Columbus,239,5.980
+44.226.147.29,443,443,true,PDX,North America,Portland,199,4.660
+64.181.240.173,443,443,true,SJC,North America,San Jose,174,8.219
+192.9.137.193,8443,8443,true,SJC,North America,San Jose,179,7.829
+89.168.83.143,8443,8443,true,FRA,Europe,Frankfurt,323,5.592
+40.233.70.7,8443,8443,true,YYZ,North America,Toronto,234,5.522
+129.146.46.164,443,443,true,SJC,North America,San Jose,298,5.214
+152.70.123.225,8443,8443,true,SJC,North America,San Jose,173,5.163
